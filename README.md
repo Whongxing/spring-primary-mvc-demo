@@ -73,7 +73,7 @@ public class HelloWorldController implements Controller {
 
 ```
 ### 五、结果
-![]()
+![](https://github.com/Whongxing/spring-primary-mvc-demo/blob/master/src/image/result.PNG)
 
 
 
