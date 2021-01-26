@@ -33,7 +33,7 @@ IDEA新建一个SpringMVC项目学习
 
 可以看到，通过配置/helloWorld.form请求，我们会对应到SpringController一个类
 
-### 非注解的方式，这个类实现了SpringMVC提供的Controller接口
+### 三、非注解的方式，这个类实现了SpringMVC提供的Controller接口
 
 ```
 package spring.mvc.controller;
