@@ -12,5 +12,5 @@ IDEA新建一个SpringMVC项目学习
 
 很简单，依赖包选择download就好了，等新建完项目后，就会生成web目录
 
-![]()
+![](https://github.com/Whongxing/spring-primary-mvc-demo/blob/master/src/image/mvc-web%E7%94%9F%E6%88%90.PNG)
 
