@@ -8,15 +8,14 @@ IDEA新建一个SpringMVC项目学习
   
      - 使用TomCat6 的时候会报找不到javax.servlet.http.HttpServletRequest httpServletRequest的某个方法到时候了解一下这个问题是什么原因
 # Demo开始
-#### 一、在IDEA中新建一个SpringMvc项目
+### 一、在IDEA中新建一个SpringMvc项目
 
 很简单，依赖包选择download就好了，等新建完项目后，就会生成web目录
 
 ![](https://github.com/Whongxing/spring-primary-mvc-demo/blob/master/src/image/mvc-web%E7%94%9F%E6%88%90.PNG)
 
 后面就不上传图片了，源码就是上面的代码
-
-#### 二、在dispatcher-servler.xml中配置请求
+### 二、在dispatcher-servler.xml中配置请求
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
@@ -34,7 +33,8 @@ IDEA新建一个SpringMVC项目学习
 
 可以看到，通过配置/helloWorld.form请求，我们会对应到SpringController一个类
 
-#### 非注解的方式，这个类实现了SpringMVC提供的Controller接口
+### 非注解的方式，这个类实现了SpringMVC提供的Controller接口
+
 ```
 package spring.mvc.controller;
 
