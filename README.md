@@ -76,4 +76,8 @@ public class HelloWorldController implements Controller {
 ![](https://github.com/Whongxing/spring-primary-mvc-demo/blob/master/src/image/result.PNG)
 
 
+# Spring中注册一个Controller的三种方式
+- 直接注解
+- 实现SpringMVC的Controller接口
+- 实现HttpRequestHandler接口
 
