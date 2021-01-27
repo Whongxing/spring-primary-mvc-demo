@@ -3,7 +3,6 @@ package spring.mvc.controller;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;
 
-@org.springframework.stereotype.Controller
 public class HelloWorldController implements Controller {
     @Override
     public ModelAndView handleRequest(javax.servlet.http.HttpServletRequest httpServletRequest, javax.servlet.http.HttpServletResponse httpServletResponse) throws Exception {
